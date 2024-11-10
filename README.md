@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kembrick
 - 👀 I’m interested in web development and music
-- 🌱 I’m currently learning Laravel and Java
+- 🌱 I’m currently learning Go and Java
 
 <!---
 kembrick/kembrick is a ✨ special ✨ repository 
